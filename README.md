@@ -1,5 +1,5 @@
 # Привет, меня зовут **Дина Шарипова** 
-## Я *HTML-верстальщик* и начинающий *Front-end*
+## Я *HTML-верстальщик* и начинающий *Frontend*
 ### Мой сайт-портфолио доступен по ссылке [dina0308.github.io](https://dina0308.github.io)
 ### Мои навыки
 ![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML5)
